@@ -1,12 +1,12 @@
 
 x = 15 * 3
-print(type (x))
+print("15 * 3 is", type(x))
 
 x = 15 / 3
-print(type(x))
+print("15 / 3 is", type(x))
 
 x = 15 // 2
-print(type(x))
+print("15 // 2 is", type(x))
 
 x = 15 ** 2
-print(type(x))
+print("15 ** 2 is", type(x))
